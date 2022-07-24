@@ -1,0 +1,5 @@
+To play game, go inside the 'Getting.Over.It.with.Bennett.Foddy.v1.6' folder, right click and run 'GettingOverIt' as administrator
+
+If you get any missing dll errors or the game isn't launching, go inside the _Redist folder and install all 8 programs in the folder
+
+For more FREE STEAM GAMES, visit steamunlocked.net
